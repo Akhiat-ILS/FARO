@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv*/
+build/
+dist/
+*.egg-info/
+.build-check/
+data/
+checkpoints/
+runs/
+*.keras
+*.h5
+*.onnx
+*.npz
+.DS_Store
+Thumbs.db

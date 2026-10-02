@@ -1,0 +1,941 @@
+{
+  "model_sha256": "55eaf4bc3425db2b3750f0b0f4b9ee98c7292ac118c049cbdc8b554e56d55340",
+  "config": {
+    "epsilon": 0.3,
+    "steps_per_block": 100,
+    "blocks": 10,
+    "seed": 29002000
+  },
+  "records": [
+    {
+      "index": 7496,
+      "seed": 29002000,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6229,
+      "seed": 29002001,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7152,
+      "seed": 29002002,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 537,
+      "seed": 29002003,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4283,
+      "seed": 29002004,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6493,
+      "seed": 29002005,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 547,
+      "seed": 29002006,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4984,
+      "seed": 29002007,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7447,
+      "seed": 29002008,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2381,
+      "seed": 29002009,
+      "success": true,
+      "search_forwards": 4,
+      "backwards": 2
+    },
+    {
+      "index": 2624,
+      "seed": 29002010,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4079,
+      "seed": 29002011,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7736,
+      "seed": 29002012,
+      "success": true,
+      "search_forwards": 6,
+      "backwards": 4
+    },
+    {
+      "index": 7418,
+      "seed": 29002013,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8364,
+      "seed": 29002014,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6213,
+      "seed": 29002015,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7292,
+      "seed": 29002016,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3859,
+      "seed": 29002017,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7107,
+      "seed": 29002018,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2296,
+      "seed": 29002019,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1012,
+      "seed": 29002020,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2565,
+      "seed": 29002021,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9825,
+      "seed": 29002022,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5587,
+      "seed": 29002023,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4368,
+      "seed": 29002024,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5040,
+      "seed": 29002025,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5903,
+      "seed": 29002026,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2974,
+      "seed": 29002027,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9430,
+      "seed": 29002028,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6663,
+      "seed": 29002029,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7240,
+      "seed": 29002030,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2312,
+      "seed": 29002031,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1091,
+      "seed": 29002032,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 944,
+      "seed": 29002033,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9322,
+      "seed": 29002034,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8063,
+      "seed": 29002035,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7322,
+      "seed": 29002036,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6878,
+      "seed": 29002037,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 545,
+      "seed": 29002038,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1444,
+      "seed": 29002039,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9464,
+      "seed": 29002040,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9075,
+      "seed": 29002041,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2206,
+      "seed": 29002042,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7779,
+      "seed": 29002043,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 469,
+      "seed": 29002044,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5210,
+      "seed": 29002045,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9341,
+      "seed": 29002046,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6380,
+      "seed": 29002047,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3059,
+      "seed": 29002048,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4025,
+      "seed": 29002049,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3480,
+      "seed": 29002050,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4024,
+      "seed": 29002051,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 522,
+      "seed": 29002052,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3058,
+      "seed": 29002053,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1197,
+      "seed": 29002054,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7483,
+      "seed": 29002055,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5188,
+      "seed": 29002056,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7017,
+      "seed": 29002057,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2636,
+      "seed": 29002058,
+      "success": true,
+      "search_forwards": 65,
+      "backwards": 63
+    },
+    {
+      "index": 4952,
+      "seed": 29002059,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7199,
+      "seed": 29002060,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6771,
+      "seed": 29002061,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 206,
+      "seed": 29002062,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4841,
+      "seed": 29002063,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5571,
+      "seed": 29002064,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8328,
+      "seed": 29002065,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3196,
+      "seed": 29002066,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4107,
+      "seed": 29002067,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5900,
+      "seed": 29002068,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8825,
+      "seed": 29002069,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9655,
+      "seed": 29002070,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1826,
+      "seed": 29002071,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 782,
+      "seed": 29002072,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4967,
+      "seed": 29002073,
+      "success": true,
+      "search_forwards": 193,
+      "backwards": 190
+    },
+    {
+      "index": 8693,
+      "seed": 29002074,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4454,
+      "seed": 29002075,
+      "success": true,
+      "search_forwards": 124,
+      "backwards": 121
+    },
+    {
+      "index": 8890,
+      "seed": 29002076,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1991,
+      "seed": 29002077,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1044,
+      "seed": 29002078,
+      "success": true,
+      "search_forwards": 7,
+      "backwards": 5
+    },
+    {
+      "index": 4226,
+      "seed": 29002079,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 334,
+      "seed": 29002080,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1684,
+      "seed": 29002081,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4349,
+      "seed": 29002082,
+      "success": true,
+      "search_forwards": 9,
+      "backwards": 7
+    },
+    {
+      "index": 8046,
+      "seed": 29002083,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7252,
+      "seed": 29002084,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7296,
+      "seed": 29002085,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4469,
+      "seed": 29002086,
+      "success": true,
+      "search_forwards": 13,
+      "backwards": 11
+    },
+    {
+      "index": 933,
+      "seed": 29002087,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 160,
+      "seed": 29002088,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8802,
+      "seed": 29002089,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6251,
+      "seed": 29002090,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8120,
+      "seed": 29002091,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6549,
+      "seed": 29002092,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3483,
+      "seed": 29002093,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9438,
+      "seed": 29002094,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5046,
+      "seed": 29002095,
+      "success": true,
+      "search_forwards": 29,
+      "backwards": 27
+    },
+    {
+      "index": 6466,
+      "seed": 29002096,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7964,
+      "seed": 29002097,
+      "success": true,
+      "search_forwards": 7,
+      "backwards": 5
+    },
+    {
+      "index": 3567,
+      "seed": 29002098,
+      "success": true,
+      "search_forwards": 4,
+      "backwards": 2
+    },
+    {
+      "index": 879,
+      "seed": 29002099,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3116,
+      "seed": 29002100,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 823,
+      "seed": 29002101,
+      "success": true,
+      "search_forwards": 84,
+      "backwards": 82
+    },
+    {
+      "index": 4928,
+      "seed": 29002102,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5695,
+      "seed": 29002103,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8098,
+      "seed": 29002104,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1808,
+      "seed": 29002105,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3310,
+      "seed": 29002106,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8013,
+      "seed": 29002107,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 2342,
+      "seed": 29002108,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8547,
+      "seed": 29002109,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4778,
+      "seed": 29002110,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1605,
+      "seed": 29002111,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 981,
+      "seed": 29002112,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8318,
+      "seed": 29002113,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 7670,
+      "seed": 29002114,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6591,
+      "seed": 29002115,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 243,
+      "seed": 29002116,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8149,
+      "seed": 29002117,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 5365,
+      "seed": 29002118,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 4850,
+      "seed": 29002119,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8546,
+      "seed": 29002120,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 1373,
+      "seed": 29002121,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 9362,
+      "seed": 29002122,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6114,
+      "seed": 29002123,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 6483,
+      "seed": 29002124,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8444,
+      "seed": 29002125,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 3121,
+      "seed": 29002126,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    },
+    {
+      "index": 8387,
+      "seed": 29002127,
+      "success": false,
+      "search_forwards": 1021,
+      "backwards": 1010
+    }
+  ],
+  "autoattack_commit": {
+    "sha": "a39220048b3c9f2cca9a4d3a54604793c68eca7e"
+  },
+  "historical": {
+    "faro": {
+      "successes": 12,
+      "total_seconds": 716.839782099938,
+      "mean_seconds": 5.600310797655766,
+      "mean_evaluations": {
+        "original_forwards": 929.5390625,
+        "original_backwards": 919.3671875,
+        "proposal_forwards": 0.0,
+        "proposal_backwards": 0.0
+      },
+      "only_this_vs_autoattack": [],
+      "only_autoattack": [
+        3059
+      ]
+    },
+    "autoattack": {
+      "successes": 13,
+      "total_seconds": 36650.29037720003,
+      "mean_evaluations": {
+        "forwards": 7101.171875,
+        "backwards": 1749.1328125
+      },
+      "wall_time_usable": false,
+      "timing_anomalous_batch_starts": [
+        16
+      ],
+      "timing_note": "At least one batch elapsed time exceeds ten times the median. Cause unverified; raw elapsed times retained, but not usable as compute-time/speed evidence. Completed-suite outputs and operation counts remain audited."
+    }
+  },
+  "note": "Historical research runner. Final package verification forwards are additional. Historical timing includes old instrumentation."
+}

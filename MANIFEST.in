@@ -1,0 +1,6 @@
+include LICENSE THIRD_PARTY_NOTICES.md CONTRIBUTING.md
+include .gitignore
+recursive-include examples *.py
+recursive-include benchmarks *.py *.md *.json
+recursive-include tests *.py
+recursive-include .github *.yml

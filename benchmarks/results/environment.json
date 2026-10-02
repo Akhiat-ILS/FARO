@@ -1,0 +1,13 @@
+{
+  "python": "3.12.14",
+  "system": "Windows",
+  "packages": {
+    "tensorflow": "2.21.0",
+    "keras": "3.15.1",
+    "numpy": "2.5.3",
+    "torch": "2.14.0+cpu",
+    "pytest": "9.1.1",
+    "setuptools": "84.0.0",
+    "wheel": "0.48.0"
+  }
+}

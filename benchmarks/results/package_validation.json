@@ -1,0 +1,29 @@
+{
+  "release": "0.1.0",
+  "environment": "environment.json",
+  "unit_tests": {"passed": 13, "failed": 0},
+  "real_model_regression": {
+    "mnist": {"passed": 6, "indices": [7496, 6229, 7152, 2381, 7736, 4967]},
+    "cifar": {"passed": 6, "indices": [7987, 6039, 2667, 5051, 3807, 6188]},
+    "candidate_absolute_tolerance": 5e-7,
+    "success_flags": "exact agreement",
+    "search_forward_counts": "exact agreement",
+    "backward_counts": "exact agreement",
+    "selection": "First three failures, first two successes, and most expensive success from each historical reference set; deduplicated."
+  },
+  "distribution_checks": {
+    "wheel_build": "passed",
+    "isolated_target_install": "passed, dependencies reused from local environment",
+    "installed_wheel_import": "passed without importing research package",
+    "toy_example": "passed",
+    "dataset_cli": "passed"
+  },
+  "limitations": [
+    "The full two 128-image benchmarks were not rerun during packaging.",
+    "Historical results are research-runner observations, not new release timing measurements.",
+    "GitHub Actions configuration has not been executed on GitHub.",
+    "A fresh network dependency installation was not tested.",
+    "GPU and cross-platform parity were not tested.",
+    "These tests do not establish superiority to AutoAttack or certify robustness."
+  ]
+}
