@@ -86,6 +86,34 @@ python examples/evaluate_dataset.py --model classifier.keras --data samples.npz 
 An optional `--indices manifest.json` selects a subset. The JSON may be a list or
 an object containing `indices`. The CLI writes `arrays.npz` and `results.json`.
 
+## First MNIST experiment
+
+Run this from the repository root after installing FARO:
+
+```bash
+python examples/mnist.py --samples 20 --output runs/mnist-001
+```
+
+On Windows, you can explicitly use your Python 3.12 environment:
+
+```powershell
+.\.venv312\Scripts\python.exe examples\mnist.py --samples 20 --output runs\mnist-001
+```
+
+The first run downloads MNIST if needed, trains a small CNN for three epochs,
+saves `checkpoints/mnist_cnn.keras`, and reports clean accuracy on all 10,000
+test images. Later runs reuse the checkpoint. It attacks a seeded random subset
+of test images with epsilon 0.3 and the normal ten 100-step blocks. Initially
+misclassified images are excluded from the success-rate denominator.
+
+Results include `results.json`, float32 candidates in `arrays.npz`, original
+images and indices in `originals.npz`, and settings in `experiment.json`.
+The `images` folder contains original/adversarial PNG pairs for viewing; these
+are rounded previews, whereas the float32 candidates are the evaluated data.
+Choose a new output directory for each run. This trains a standard classifier,
+not the robust Madry secret model used in the historical benchmark, and is not
+an AutoAttack comparison. Training time depends on your hardware.
+
 ## Model and input contract
 
 - A built, single-input Functional/Sequential Keras classifier, with fixed image
